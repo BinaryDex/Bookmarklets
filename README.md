@@ -1,6 +1,6 @@
 # Dex's Bookmarklets<br>
 
-## What is this?>br>
+## What is this?<br>
 This is a collection of a bunch of executable JavaScript code known as "bookmarklets". They can perform certain JavaScript actions by clicking on a bookmark.
 
 ## How do I use this?<br>
