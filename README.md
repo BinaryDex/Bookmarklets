@@ -11,4 +11,4 @@ Copy-paste the above code into the URL field of a bookmark in your web browser. 
 
 # Credits<br>
 <a href="https://github.com/GunnerBasil/">GunnerBasil</a><br>
-<a href="https://github.com/HonestlyDex/">HonestlyDex</a> (ME)
+<a href="https://github.com/BinaryDex/">BinaryDex</a> (ME)
